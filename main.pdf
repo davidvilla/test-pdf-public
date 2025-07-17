@@ -1,0 +1,23 @@
+\documentclass[a4paper,12pt]{article}
+
+\title{Documento Básico}
+\author{Tu Nombre}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introducción}
+Este es un documento básico en \LaTeX. Puedes usarlo como plantilla para crear documentos más complejos.
+
+\section{Contenido}
+Aquí puedes escribir tu contenido, como párrafos, listas, fórmulas, tablas, etc.
+
+\begin{itemize}
+  \item Primer elemento
+  \item Segundo elemento
+  \item Tercer elemento
+\end{itemize}
+
+\end{document}
